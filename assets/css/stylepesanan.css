@@ -1,0 +1,30 @@
+section .pesanan {
+	height: 100%;
+	background-color: white;
+	padding: 20px 0px;
+}
+
+.form-pemesanan{
+	width: 55%;
+	float: left;
+	padding-right: 30px;
+}
+
+.kalender-info{
+
+	background-color: white;
+	width: 45%;
+	float: left;
+}
+
+
+.kalender-info-satuan {
+	padding-top: 20px;
+	padding-bottom: 30px;
+	height: 100%;
+	padding-left: 30px;
+	background-color: white;
+width: 48%;
+float: left;
+}
+

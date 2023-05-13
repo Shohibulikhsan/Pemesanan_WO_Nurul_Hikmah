@@ -1,0 +1,22 @@
+section .akun{
+	background-color: white;
+	height: 90vh;
+	padding: 20px 0px;
+}
+
+.form_tambah{
+	width: 50%;
+	float: left;
+	padding: 0px 20px;
+
+}
+
+.table-responsive{
+	width: 50%;
+	float: left;
+	padding: 0px 20px;
+}
+
+h3 {
+	padding: 10px 0px;
+}

@@ -1,0 +1,17 @@
+input {
+	border: none;
+}
+
+select {
+	border:none;
+}
+
+textarea {
+	border: none;
+}
+
+@media{
+	.btn-default {
+		display: none;
+	}
+}

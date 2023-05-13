@@ -1,0 +1,44 @@
+
+
+.judul h3{
+	text-align: center;
+	color: #1167b0;
+	padding: 20px 0px;
+
+}
+
+.kontak {
+	height: 95vh;
+	padding: 20px 0px;
+	background-color: #f9f9f9;
+}
+
+.form-pemesanan{
+	width: 50%;
+	float: left;
+	padding: 30px 20px;
+}
+
+.table-info{
+	padding: 30px 30px;
+	width: 50%;
+	float: left;
+}
+
+.form-element label{
+	font-size: 14px;
+	color: #222;
+	background: #f9f9f9;
+}
+
+input[type="text"],[type="password"],[type="date"] , textarea ,select{
+	margin-top: 5px;
+	width: 100%;
+	padding: 10px;
+	outline: none;
+	border: none;
+	background-color: #f9f9f9;
+	border-bottom: 1px solid #000;
+}
+
+

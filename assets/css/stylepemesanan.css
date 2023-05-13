@@ -1,0 +1,51 @@
+
+.header{
+	text-align: center;
+	color: #1167b0;
+
+}
+
+.pemesanan {
+	height: 105%;
+	padding-top:20px;
+	background-color: #f9f9f9;
+}
+
+.form-pemesanan{
+	width: 50%;
+	float: left;
+	padding: 30px 20px;
+}
+
+.kalender-info{
+	padding: 0px 30px;
+	width: 50%;
+	float: left;
+}
+
+.kalender-info h3{
+9
+	color: black;
+}
+
+.form-element label{
+	font-size: 14px;
+	color: #222;
+	background: #f9f9f9;
+}
+
+#calendar {
+	color: #1167b0 ;
+}
+
+input[type="text"],[type="password"],[type="date"] , textarea , select ,[type="number"]  {
+	margin-top: 5px;
+	width: 100%;
+	padding: 10px;
+	outline: none;
+	border: none;
+	background-color: #f9f9f9;
+	border-bottom: 1px solid #000;
+}
+
+

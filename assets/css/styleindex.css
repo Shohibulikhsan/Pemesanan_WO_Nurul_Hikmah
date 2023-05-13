@@ -1,0 +1,139 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.row.no-gutters {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar .navbar-light{
+	height: 10px;
+}
+
+.navbar-brand {
+	color: #333;
+	position: absolute;
+	top: 9px;
+	left: 50px;
+}
+
+.img-logo {
+	border:1px solid;
+	width: 28px;
+	height: 28px;
+	position: absolute;
+	top: 19px;
+	left: 30px;
+	background-image: url('img/LOGOPNG.png');
+}
+
+button{
+	position: absolute;
+	right: 20px;
+	top: 16px;
+}
+
+.banner {
+	height: 90vh;
+	background-image: url('../../img/coba.png');
+	background-size: cover;
+	position: relative;
+	display: flex;
+	padding-top: 500px;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner h2{
+	z-index: 1000;
+	color: white;
+	
+}
+.banner h4{
+	z-index: 1000;
+	color: white;	
+}
+
+.banner:after{
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	bottom: 0px;
+	background-color: rgba(10, 0 ,120, .5);
+}
+
+section h3{
+	color: #1167b0;
+	text-align: center;
+	padding: 20px 0px;
+}
+
+section p{
+	text-align: center;
+	color: grey;
+}
+
+.about{
+	height: 40vh;
+	padding: 30px 0px;
+	background-color: #f9f9f9;
+}
+
+.kategori{
+	
+	height: 60vh;
+	padding: 20px 0px;
+}
+
+.footer{
+	height: 10vh;
+	background-color: #333;
+	color: silver;
+	text-align: center;
+	padding: 20px;
+}
+
+.box{
+	color: #1E90FF;
+	padding: 0px 120px;
+}
+
+.box:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.box .col-3{
+	width: 33.33333333%;
+	padding: 30px;
+	box-sizing: border-box;
+
+	text-align: center;
+	float: left;
+
+}
+
+.icon{
+	width: 80px;
+	height: 80px;
+	border: 1px solid;
+	border-radius: 50%;
+	margin:10px auto;
+	padding: 22px 0px;
+
+}
+
+.box .col-3 h4{
+	margin: 20px 0px;
+	color: #1E90FF;
+}
+
+svg{
+
+}

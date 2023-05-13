@@ -1,0 +1,171 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.row.no-gutters {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.aktif{
+	border-bottom: 2px solid;
+	border-color:  #1167b0;
+	color: black;
+}
+
+ul{
+	color: silver;
+}
+
+a button{
+	position: absolute;
+	right: 63px;
+	top: 8px;
+}
+
+.galery1 h3 {
+	padding: 20px 0px;
+}
+
+
+.galery1{
+	text-align: center;
+	height: 45vh;
+	padding:0px;
+	background-color: #f9f9f9;
+}
+
+.galery{
+	height: 34vh;
+	padding: 30px 0px;
+	background-color: #f9f9f9;
+}
+
+.box:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.box .col-4{
+	width: 25%;
+	height: 190px;
+	float: left; 
+}
+
+.footer{
+	height: 10vh;
+	background-color: #333;
+	color: silver;
+	text-align: center;
+	padding: 20px;
+}
+
+img{
+	height: 190px;
+	width: 250px;
+}
+
+.f1{
+	height: 190px;
+	width: 250px;
+	margin: auto;
+	background-image: url('../../img/coba.png');
+	background-size: cover;
+}
+
+.f2{
+	height: 190px;
+	width: 250px;
+	margin: auto;
+	background-image: url('../../img/galeri/3.jpg');
+	background-size: cover;
+}
+
+.f3{
+	height: 190px;
+	width: 250px;
+	margin: auto;
+	background-image: url('../../img/galeri/8.jpg');
+	background-size: cover;
+}
+
+.f4{
+	height: 190px;
+	width: 250px;
+	margin: auto;
+	background-image: url('../../img/galeri/9.jpg');
+	background-size: cover;
+}
+
+.f5{
+	height: 190px;
+	width: 250px;
+	margin: auto;
+	background-image: url('../../img/galeri/22.jpg');
+	background-size: cover;
+}
+
+.f6{
+	height: 190px;
+	width: 250px;
+	border: 1px solid;
+	margin: auto;
+	background-image: url('../../img/galeri/21.jpg');
+	background-size: cover;
+}
+
+.f7{
+	height: 190px;
+	width: 250px;
+	border: 1px solid;
+	margin: auto;
+	background-image: url('../../img/galeri/2.jpg');
+	background-size: cover;
+}
+
+.f8{
+	height: 190px;
+	width: 250px;
+	border: 1px solid;
+	margin: auto;
+	background-image: url('../../img/galeri/4.jpg');
+	background-size: cover;
+}
+
+.f9{
+	height: 190px;
+	width: 250px;
+	border: 1px solid;
+	margin: auto;
+	background-image: url('../../img/galeri/15.jpg');
+	background-size: cover;
+}
+
+.f10{
+	height: 190px;
+	width: 250px;
+	border: 1px solid;
+	margin: auto;
+	background-image: url('../../img/galeri/17.jpg');
+	background-size: cover;
+}
+
+.f11{
+	height: 190px;
+	width: 250px;
+	border: 1px solid;
+	margin: auto;
+	background-image: url('../../img/galeri/14.jpg');
+	background-size: cover;
+}
+
+.f12{
+	height: 190px;
+	width: 250px;
+	border: 1px solid;
+	margin: auto;
+	background-image: url('../../img/galeri/10.jpg');
+	background-size: cover;
+}
